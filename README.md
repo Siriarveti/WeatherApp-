@@ -3,8 +3,8 @@ Check the weather around you and all over the world at a glance. Rely on the acc
 
 Weather is sometimes difficult to predict. This accurate weather app allows to find out a detailed forecast wherever you are, for any time of the day by tapping on the icons:
 
+5-days weather forecast
 Current and “Feels like” temperature
-Wind speed and direction
+Wind speed
 Pressure and precipitation information
-Sunrise/sunset time
-Weather Radar & Rain maps
+
